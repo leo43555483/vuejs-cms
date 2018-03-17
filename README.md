@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # serve-cms
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuejs-cms
+lighter-cms
+>>>>>>> ac6e75f1e54f170f487c00842824f05888f86c4a
