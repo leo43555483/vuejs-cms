@@ -1,0 +1,21 @@
+.translate3d(x, y, z) {
+  transform: translate3d(x, y, z);
+}
+
+.fade-left-enter-active,
+.fade-right-enter-active {
+  transition: all .4s linear;
+}
+
+.fade-left-enter,
+.fade-right-enter {
+  opacity: 0;
+}
+
+.fade-left-enter {
+  transform: translate3d(-40px, 0, 0);
+}
+
+.fade-right-enter {
+  transform: translate3d(40px, 0, 0);
+}
